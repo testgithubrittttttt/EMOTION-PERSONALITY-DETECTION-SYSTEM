@@ -1,1 +1,4 @@
-# EMOTION-PERSONALITY-DETECTION-SYSTEM
+Emotion-Personality-Detection-System
+The project presents a comprehensive approach to harnessing the Artificial Intelligence and Machine Learning technological synergies by developing a system capable of detecting facial emotions and providing insights into the user's personality traits. The proposed system employs a deep learning architecture tailored to the task of facial emotion recognition. By utilizing a rich dataset of labelled facial expressions, the model is trained to accurately recognize a spectrum of emotions, ranging from happiness and sadness to anger and surprise. Then it can predict personality based on the detected emotion. The datsets I utilized for this project are FER2013 (https://www.kaggle.com/datasets/msambare/fer2013) and a synthetically generated "emotion_personality_dataset".
+
+Project is divided into two main phases: The first phase "facial_emotion_recognition" captures user's face and detect the respective emotion from it. The second phase "personality_trait_detection" include maaping the detected emotion from the user's face to the accurate personality trait.
